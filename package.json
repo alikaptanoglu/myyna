@@ -36,7 +36,7 @@
     "gm":"1.13.3",
     "facebook-js":"1.0.1",
     "facebook-node-sdk":"0.2.0",
-    "node-twitter-api":"1.1.1",    
+    "node-twitter-api":"1.8.0",    
     "social-share":"latest",
     "helmet":"0.1.1"
   },
