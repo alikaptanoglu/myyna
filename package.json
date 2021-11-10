@@ -28,7 +28,7 @@
     "express3-handlebars": "latest",
     "webshot": "latest",
     "imagemagick": "latest",
-    "socket.io": "0.9.16",
+    "socket.io": "1.0.1",
     "formidable": "1.0.14",
     "fluent-ffmpeg": "1.5.2",
     "nodemailer": "0.5.7",
