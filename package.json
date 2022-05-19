@@ -29,7 +29,7 @@
     "webshot": "latest",
     "imagemagick": "latest",
     "socket.io": "0.9.16",
-    "formidable": "1.0.14",
+    "formidable": "3.2.4",
     "fluent-ffmpeg": "1.5.2",
     "nodemailer": "0.5.7",
     "youtube-feeds":"2.2.1",
